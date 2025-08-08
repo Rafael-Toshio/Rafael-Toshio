@@ -6,21 +6,27 @@ Bem-vindo ao meu perfil do GitHub!
 - 👨‍💻 Desenvolvedor Web & Suporte Técnico
 - 🎨 Designer Gráfico
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### Tecnologias e linguagens 💻
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho e tenho conhecimento:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,mysql)](https://skillicons.dev)
 
   ### Ferramentas 🛠️
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,netbeans,canva,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,wordpress,figma)](https://skillicons.dev)
                                         
 Fique à vontade para explorar meus repositórios e projetos!
 
-#### 📫 Contato
-
-- <a href="https://www.linkedin.com/in/rafael-toshio-8620aa325" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-- <a href="http://instagram.com/rafael_toshio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-- <a href="https://wa.me/11948576533" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+### Contato 📫
 
 <p align="left">
   <a href="mailto:toshiobr13@gmail.com" title="Gmail">
