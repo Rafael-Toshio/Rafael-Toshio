@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil do GitHub!
 
 - 🎓 Estou me graduando em Análise e Desenvolvimento de Sistemas.
-- 👨‍💻 Desenvolvedor Web & Suporte Técnico
+- 👨‍💻 Desenvolvedor & Técnico de Suporte
 - 🎨 Designer Gráfico
 
 ---
