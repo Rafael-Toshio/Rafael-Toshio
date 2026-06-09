@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub!
 ### Tecnologias e linguagens 💻
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho e tenho conhecimento:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql)](https://skillicons.dev)
 
   ### Ferramentas 🛠️
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,wordpress,figma)](https://skillicons.dev)
